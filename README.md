@@ -2,7 +2,7 @@
 
 Use Emacs to display pager-like output from shells run inside the same Emacs host.
 
-![](emacs.png)
+![](emacs.gif)
 
 This repo contains components that work together to get this to work. First, you are using Emacs and you enjoy
 spawning shell processes within Emacs to do work within an Emacs environment.
